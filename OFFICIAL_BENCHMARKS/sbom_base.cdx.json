@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:ad09aed5-0558-536c-ba41-4e1d71771e4b",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T15:33:26Z",
+    "component": {
+      "type": "application",
+      "name": "CLOTH_SIMULATION",
+      "version": "cadca8e1b9d7",
+      "bom-ref": "pkg:generic/anticloud/CLOTH_SIMULATION@cadca8e1b9d7",
+      "purl": "pkg:generic/anticloud/CLOTH_SIMULATION@cadca8e1b9d7",
+      "licenses": [
+        {
+          "license": {
+            "id": "NOASSERTION"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "cadca8e1b9d7922986cd25e64cd070356dd55153"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/Hedlundaren/cloth-simulation"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
